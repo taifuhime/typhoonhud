@@ -129,7 +129,7 @@
 	HudCommentary
 	{
 		"fieldName" "HudCommentary"
-		"xpos"	"c-190"
+		"xpos"	"c-22190"
 		"ypos"	"350"
 		"wide"	"380"
 		"tall"  "40"
@@ -191,8 +191,8 @@
 	HudSuit
 	{
 		"fieldName"		"HudSuit"
-		"xpos"	"140"
-		"ypos"	"432"
+		"xpos"	"22140"
+		"ypos"	"22432"
 		"wide"	"108"
 		"tall"  "36"
 		"visible" "1"
@@ -442,7 +442,7 @@
 		"tall"	 "480"
 	}
 
-	HudMessageMessage
+	HudMessage
 	{
 		"fieldName" "HudMessage"
 		"visible" "1"
@@ -475,7 +475,7 @@
 		"tall"	 "480"
 	}
 
-	HudHistoryResource 
+	HudHistoryResource
 	{
 		"fieldName" "HudHistoryResource"
 		"visible" "1"
@@ -632,7 +632,7 @@
 	{
 		"fieldName"	"HudHintDisplay"
 		"visible"	"0"
-		"enabled" "1"
+		"enabled"   "1"
 		"xpos"		"c-240"
 		"ypos"		"c110"
 		"wide"		"480"

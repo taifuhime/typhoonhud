@@ -16,14 +16,14 @@ Scheme
 	Colors
 	{
 		// base colors
-		"Orange"			"255 176 0 255"
-		"OrangeDim"			"255 176 0 120"
-		"LightOrange"		"188 112 0 128"
+		"Orange"			"251 160 227 255"  //"255 176 0 255"
+		"OrangeDim"			"251 160 227 255"  //"255 176 0 120"
+		"LightOrange"		"251 160 227 255"  //"188 112 0 128"
 		
 		"Red"				"192 28 0 140"
 		"Black"				"0 0 0 255"
-		"TransparentBlack"	"0 0 0 196"
-		"TransparentLightBlack"	"0 0 0 90"
+		"TransparentBlack"	"0 0 0 0" //0 0 0 196
+		"TransparentLightBlack"	"0 0 0 0" //0 0 0 90
 		"RoundWinPanelBackground" "0 0 0 179"
 
 		"Blank"				"0 0 0 0"
@@ -32,7 +32,7 @@ Scheme
 		"ForTesting_MagentaDim"	"255 0 255 120"
 		
 		//custom colors 
-		"HUD_Icon_Normal"     "251 160 227 255" //"LavenderRose"
+		"LavenderRose"     "251 160 227 255"
 		
 		//These were ripped from SourceScheme
 		"SteamLightGreen"	"157 194 80 255"
@@ -93,7 +93,7 @@ Scheme
 		FrameTitleBar.DisabledBgColor	"Blank"
 
 		GraphPanel.FgColor				"Orange"
-		GraphPanel.BgColor				"TransparentBlack"
+		GraphPanel.BgColor				"255"
 
 		Label.TextDullColor				"Orange"
 		Label.TextColor					"Orange"
@@ -118,7 +118,7 @@ Scheme
 
 		Chat.TypingText					"Orange"
 
-		Panel.FgColor					"HUD_Icon_Normal"
+		Panel.FgColor					"LavenderRose"
 		Panel.BgColor					"blank"
 
 		HTML.BgColor					"Black"
@@ -194,48 +194,48 @@ Scheme
 
 		"ViewportBG"		"Blank"
 		"team0"			"204 204 204 255" // Spectators
-		"team1"			"255 64 64 255" // CT's
-		"team2"			"153 204 255 255" // T's
+		"team1"			"251 160 227 255" // CT's
+		"team2"			"251 160 227 255" // T's
 
 		"MapDescriptionText"	"Orange" // the text used in the map description window
-		"CT_Blue"			"153 204 255 255"
-		"T_Red"				"255 64 64 255"
+		"CT_Blue"			"251 160 227 255"
+		"T_Red"				"251 160 227 255"
 		"Hostage_Yellow"	"Panel.FgColor"
-		"HudIcon_Green"		"HUD_Icon_Normal" //"0 160 0 255"
-		"HudIcon_Red"		"HUD_Icon_Normal" //"160 0 0 255"
+		"HudIcon_Green"		"LavenderRose" //"0 160 0 255"
+		"HudIcon_Red"		"LavenderRose" //"160 0 0 255"
 
 		// CHudMenu
 		"ItemColor"		"White"	// default 255 167 42 255
-		"MenuColor"		"HUD_Icon_Normal" // "233 208 173 255"
+		"MenuColor"		"LavenderRose" // "233 208 173 255"
 		"MenuBoxBg"		"0 0 0 100"
 
 		// weapon selection colors
-		"SelectionNumberFg"		"255 220 0 200"
-		"SelectionTextFg"		"255 220 0 200"
-		"SelectionEmptyBoxBg" 	"0 0 0 80"
-		"SelectionBoxBg" 		"0 0 0 80"
-		"SelectionSelectedBoxBg" "0 0 0 190"
+		"SelectionNumberFg"		"255 220 0 0"
+		"SelectionTextFg"		"LavenderRose"
+		"SelectionEmptyBoxBg" 	"0 0 0 0"
+		"SelectionBoxBg" 		"0 0 0 0"
+		"SelectionSelectedBoxBg" "0 0 0 0"
 
 		// Hint message colors
-		"HintMessageFg"			"HUD_Icon_Normal"
-		"HintMessageBg" 		"0 0 0 60"
+		"HintMessageFg"			"LavenderRose"
+		"HintMessageBg" 		"0 0 0 0"
 
-		"ProgressBarFg"			"255 30 13 255"
+		"ProgressBarFg"			"LavenderRose"
 
         // Weapon Pickup Colors
-        "Yellowish"         "HUD_Icon_Normal"
-        "Normal"            "HUD_Icon_Normal"
-        "Caution"           "HUD_Icon_Normal"
+        "Yellowish"         "LavenderRose"
+        "Normal"            "LavenderRose"
+        "Caution"           "LavenderRose"
 		
 		// Top-left corner of the "Counter-Strike" on the main screen
 		"Main.Title1.X"		"32"
 		"Main.Title1.Y"		"180"
-		"Main.Title1.Color"	"HUD_Icon_Normal"
+		"Main.Title1.Color"	"LavenderRose"
 
 		// Top-left corner of the "SOURCE" on the main screen
 		"Main.Title2.X"		"380"
 		"Main.Title2.Y"		"205"
-		"Main.Title2.Color"	"255 255 255 80"
+		"Main.Title2.Color"	"255 255 255 255"
 
 		// Top-left corner of the "BETA" on the main screen
 		"Main.Title3.X"		"460"
