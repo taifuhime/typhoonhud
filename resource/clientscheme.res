@@ -32,7 +32,7 @@ Scheme
 		"ForTesting_MagentaDim"	"255 0 255 120"
 		
 		//custom colors 
-		"LavenderRose"     "251 160 227 255"
+		"HUD_Icon_Normal"     "251 160 227 255" //"LavenderRose"
 		
 		//These were ripped from SourceScheme
 		"SteamLightGreen"	"157 194 80 255"
@@ -118,7 +118,7 @@ Scheme
 
 		Chat.TypingText					"Orange"
 
-		Panel.FgColor					"LavenderRose"
+		Panel.FgColor					"HUD_Icon_Normal"
 		Panel.BgColor					"blank"
 
 		HTML.BgColor					"Black"
@@ -201,12 +201,12 @@ Scheme
 		"CT_Blue"			"153 204 255 255"
 		"T_Red"				"255 64 64 255"
 		"Hostage_Yellow"	"Panel.FgColor"
-		"HudIcon_Green"		"0 160 0 255"
-		"HudIcon_Red"		"160 0 0 255"
+		"HudIcon_Green"		"HUD_Icon_Normal" //"0 160 0 255"
+		"HudIcon_Red"		"HUD_Icon_Normal" //"160 0 0 255"
 
 		// CHudMenu
-		"ItemColor"		"255 167 42 200"	// default 255 167 42 255
-		"MenuColor"		"233 208 173 255"
+		"ItemColor"		"White"	// default 255 167 42 255
+		"MenuColor"		"HUD_Icon_Normal" // "233 208 173 255"
 		"MenuBoxBg"		"0 0 0 100"
 
 		// weapon selection colors
@@ -217,15 +217,20 @@ Scheme
 		"SelectionSelectedBoxBg" "0 0 0 190"
 
 		// Hint message colors
-		"HintMessageFg"			"255 255 255 255"
+		"HintMessageFg"			"HUD_Icon_Normal"
 		"HintMessageBg" 		"0 0 0 60"
 
 		"ProgressBarFg"			"255 30 13 255"
 
+        // Weapon Pickup Colors
+        "Yellowish"         "HUD_Icon_Normal"
+        "Normal"            "HUD_Icon_Normal"
+        "Caution"           "HUD_Icon_Normal"
+		
 		// Top-left corner of the "Counter-Strike" on the main screen
 		"Main.Title1.X"		"32"
 		"Main.Title1.Y"		"180"
-		"Main.Title1.Color"	"255 255 255 255"
+		"Main.Title1.Color"	"HUD_Icon_Normal"
 
 		// Top-left corner of the "SOURCE" on the main screen
 		"Main.Title2.X"		"380"
@@ -2426,6 +2431,7 @@ Scheme
 		"2"		"resource/csd.ttf"
 		"3"		"resource/Cstrike.ttf"
 		"4"		"resource/CSlogo.ttf"
+		"5" 	"resource/daddysgirl.ttf"
 	}
 
 }

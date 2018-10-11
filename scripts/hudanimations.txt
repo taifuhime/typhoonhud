@@ -236,7 +236,7 @@ event HidePrimaryAmmoClipHideSecondaryAmmo
 event AccountMoneyRemoved
 {
 	Animate HudAccount		FgColor	"HudIcon_Red" Linear 0.0 0.0001
-	Animate HudAccount		FgColor	"OrangeDim" Accel 0.0 3.0
+	Animate HudAccount		FgColor	"Panel.FgColor" Accel 0.0 3.0
 
 	Animate	HudAccount		Ammo2Color "HudIcon_Red" Linear 0.0 0.0001
 	Animate HudAccount		Ammo2Color "0 0 0 0" Accel 0.0 3.0
@@ -246,7 +246,7 @@ event AccountMoneyRemoved
 event AccountMoneyAdded
 {
 	Animate HudAccount		FgColor	"HudIcon_Green" Linear 0.0 0.0001
-	Animate HudAccount		FgColor	"OrangeDim" Accel 0.0 3.0
+	Animate HudAccount		FgColor	"Panel.FgColor" Accel 0.0 3.0
 
 	Animate HudAccount		Ammo2Color "HudIcon_Green" Accel 0.0 0.0001
 	Animate HudAccount		Ammo2Color "0 0 0 0" Accel 0.0 3.0
@@ -254,14 +254,14 @@ event AccountMoneyAdded
 
 event AccountMoneyInvisible
 {
-	Animate HudAccount		FgColor	"OrangeDim" Accel 0.0 0.0001
+	Animate HudAccount		FgColor	"Panel.FgColor" Accel 0.0 0.0001
 	Animate HudAccount		Ammo2Color "0 0 0 0" Accel 0.0 0.0001
 }
 
 event HealthRestored
 {
 	StopPanelAnimations HudHealth	0.0
-	Animate HudHealth		FgColor	"OrangeDim"		Linear 0.0 0.01
+	Animate HudHealth		FgColor	"Panel.FgColor"		Linear 0.0 0.01
 	Animate HudHealth		Blur	"7"			Deaccel 0.0 0.2
 	Animate HudHealth		Blur	"1"			Deaccel 0.2 1.0
 }
@@ -269,7 +269,7 @@ event HealthRestored
 event HealthTookDamage
 {
 	Animate HudHealth		FgColor	"HudIcon_Red"		Linear 0.0 0.1
-	Animate HudHealth		FgColor	"OrangeDim"		Pulse 	4 0.1 1.0
+	Animate HudHealth		FgColor	"Panel.FgColor"		Pulse 	4 0.1 1.0
 	Animate HudHealth		Blur	"7"			Deaccel 0.0 0.2
 	Animate HudHealth		Blur	"1"			Deaccel 0.2 0.3
 }
@@ -277,7 +277,7 @@ event HealthTookDamage
 event HealthLow
 {
 	Animate HudHealth		FgColor	"HudIcon_Red"		Linear 0.0 0.1
-	Animate HudHealth		FgColor	"OrangeDim"		Pulse 2000 0.1 1000.0
+	Animate HudHealth		FgColor	"Panel.FgColor"		Pulse 2000 0.1 1000.0
 }
 
 event HintMessageShow
