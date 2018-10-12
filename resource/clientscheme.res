@@ -52,7 +52,6 @@ Scheme
 		Border.Selection				"Blank"				// the additional border color for displaying the default/selected button
 		Border.BuyPreset				"Orange"
 
-
 		Button.TextColor				"Orange"
 		Button.BgColor					"0 0 0 64"
 		Button.ArmedTextColor			"Orange"
@@ -1607,7 +1606,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana" 
+				"name"		"Verdana" 
 				"tall"		"10" [!$OSX]
 				"tall"		"11" [$OSX]
 				"weight"	"0"
@@ -1620,7 +1619,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana" 
+				"name"		"Verdana" 
 				"tall"		"8" [!$OSX]
 				"tall"		"9" [$OSX]
 				"weight"	"0"
@@ -1633,7 +1632,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana" 
+				"name"		"Verdana" 
 				"tall"		"7" [!$OSX]
 				"tall"		"8" [$OSX]
 				"weight"	"0"
@@ -1646,7 +1645,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana"
+				"name"		"Verdana"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1663,13 +1662,13 @@ Scheme
 	{
 		BaseBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1678,7 +1677,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -1700,16 +1699,16 @@ Scheme
 				}
 			}
 		}
-		
+
 		TitleButtonBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1718,7 +1717,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -1743,13 +1742,13 @@ Scheme
 
 		TitleButtonDisabledBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "BgColor"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1758,7 +1757,7 @@ Scheme
 				"1"
 				{
 					"color" "BgColor"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 			Top
@@ -1782,13 +1781,13 @@ Scheme
 
 		TitleButtonDepressedBorder
 		{
-			"inset" "1 1 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1797,7 +1796,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -1822,13 +1821,13 @@ Scheme
 
 		ScrollBarButtonBorder
 		{
-			"inset" "1 0 0 0"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1837,7 +1836,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -1862,13 +1861,13 @@ Scheme
 
 		ScrollBarButtonDepressedBorder
 		{
-			"inset" "2 2 0 0"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1877,7 +1876,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -1899,7 +1898,7 @@ Scheme
 				}
 			}
 		}
-		
+
 		ButtonBorder
 		{
 			"inset" "0 0 0 0"
@@ -1908,7 +1907,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1926,7 +1925,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1942,13 +1941,13 @@ Scheme
 
 		FrameBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "ControlBG"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1966,7 +1965,7 @@ Scheme
 				"1"
 				{
 					"color" "ControlBG"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1982,13 +1981,13 @@ Scheme
 
 		TabBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -1997,7 +1996,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -2022,7 +2021,7 @@ Scheme
 
 		TabActiveBorder
 		{
-			"inset" "0 0 1 0"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
@@ -2037,7 +2036,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -2055,7 +2054,7 @@ Scheme
 				"1"
 				{
 					"color" "ControlBG"
-					"offset" "6 2"
+					"offset" "0 0"
 				}
 			}
 		}
@@ -2063,7 +2062,7 @@ Scheme
 
 		ToolTipBorder
 		{
-			"inset" "0 0 1 0"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
@@ -2078,7 +2077,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -2110,7 +2109,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2128,7 +2127,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2150,7 +2149,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2168,7 +2167,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2184,13 +2183,13 @@ Scheme
 
 		ComboBoxBorder
 		{
-			"inset" "0 0 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2199,7 +2198,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -2224,13 +2223,13 @@ Scheme
 
 		MenuBorder
 		{
-			"inset" "1 1 1 1"
+			"inset" "0 0 0 0"
 			Left
 			{
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2239,7 +2238,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Dark"
-					"offset" "1 0"
+					"offset" "0 0"
 				}
 			}
 
@@ -2309,7 +2308,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.BuyPreset"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2327,7 +2326,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.BuyPreset"
-					"offset" "1 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2349,7 +2348,7 @@ Scheme
 				"1"
 				{
 					"color" "Blank"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2367,7 +2366,7 @@ Scheme
 				"1"
 				{
 					"color" "Border.Bright"
-					"offset" "1 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2380,7 +2379,7 @@ Scheme
 				}
 			}
 		}
-		
+
 		BlackBorder
 		{
 			"inset" "0 0 0 0"
@@ -2389,7 +2388,7 @@ Scheme
 				"1"
 				{
 					"color" "Black"
-					"offset" "0 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2407,7 +2406,7 @@ Scheme
 				"1"
 				{
 					"color" "Black"
-					"offset" "1 1"
+					"offset" "0 0"
 				}
 			}
 
@@ -2421,7 +2420,7 @@ Scheme
 			}
 		}
 	}
-
+	
 	//////////////////////// CUSTOM FONT FILES /////////////////////////////
 	//
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
@@ -2431,11 +2430,6 @@ Scheme
 		"2"		"resource/csd.ttf"
 		"3"		"resource/Cstrike.ttf"
 		"4"		"resource/CSlogo.ttf"
-		"5"
-		{
-		"name"  "DaddysGirl"
-		"font"  "resource/fonts/daddysgirl.ttf"
-		}
 	}
 
 }
