@@ -20,26 +20,26 @@
 		"ypos"		            "c-186"
 		"wide"		            "600"
 		"tall"		            "372"
-		"visible"				"0"  //"1"
-		"enabled"				"0"  //"1"
+		"visible"				"1"  //"1"
+		"enabled"				"1"  //"1"
 		"image"					"../vgui/scoreboard/panel-scoreboard"
 		"scaleImage"			"1"		
 	}
 
-	"ScoreboardBackgroundTaifu"      //Replace the image with a solid background
-	{
-		"ControlName"		    "ImagePanel"  
-		"fieldName"		        "ScoreboardBackgroundTaifu"
-		"xpos"		            "c-300"
-		"ypos"		            "c-186"
-		"wide"		            "600"
-		"tall"		            "372"
-		"pinCorner"		        "0"
-		"visible"		        "1"
-		"enabled"		        "1"
-		"fillcolor"		        "0 0 0 190" //Black "0 0 0 190" Standard Dods "123 110 59 240"
-		"scaleImage"		    "1"
-	}
+//	"ScoreboardBackgroundTaifu"      //Replace the image with a solid background
+//	{
+//		"ControlName"		    "ImagePanel"  
+//		"fieldName"		        "ScoreboardBackgroundTaifu"
+//		"xpos"		            "c-300"
+//		"ypos"		            "c-186"
+//		"wide"		            "600"
+//		"tall"		            "372"
+//		"pinCorner"		        "0"
+//		"visible"		        "1"
+//		"enabled"		        "1"
+//		"fillcolor"		        "251 160 227 20" //Black "0 0 0 190" Standard Dods "123 110 59 240"
+//		"scaleImage"		    "1"
+//	}
 
 	"MapName"
 	{
