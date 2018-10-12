@@ -2431,7 +2431,11 @@ Scheme
 		"2"		"resource/csd.ttf"
 		"3"		"resource/Cstrike.ttf"
 		"4"		"resource/CSlogo.ttf"
-		"5" 	"resource/daddysgirl.ttf"
+		"5"
+		{
+		"name"  "DaddysGirl"
+		"font"  "resource/fonts/daddysgirl.ttf"
+		}
 	}
 
 }
