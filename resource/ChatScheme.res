@@ -325,7 +325,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Times New Roman"//Verdana
+				"name"		"Roboto"//Verdana
 				"tall"		"11"
 				"weight"	"1000"
 				"yres"		"480 599"
@@ -349,19 +349,21 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Consolas"
+				"name"		"Roboto"
 				"tall"		"12"
 				"weight"	"400"
 				"yres"		"1024 1199"
 				"outline"	"0"
+				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"Tahoma"
+				"name"		"Roboto"
 				"tall"		"21"
 				"weight"	"1000"
 				"yres"		"1200 10000"
-				"outline"	"1"
+				"outline"	"0"
+				"antialias" "1"
 			}
 		}
 
@@ -772,7 +774,11 @@ Scheme
 	// specifies all the custom (non-system) font files that need to be loaded to service the above described fonts
 	CustomFontFiles
 	{
-
+		"1"
+		{
+			"name" "Roboto"
+			"font" "resource/fonts/Roboto-Regular.ttf"
+		}
 	}
 }
 

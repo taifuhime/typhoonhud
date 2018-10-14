@@ -65,15 +65,15 @@
 		"label" ""
 		"command" ""
 	}
-	"10"
-	{
-		"label" "JOIN CHICAGO"
-		"command" "engine connect 104.153.105.67:27015"
-	}
-	"11"
-	{
-		"label" "JOIN SEATTLE"
-		"command" "engine connect 162.248.94.192:27015"
-	}
+//	"10"
+//	{
+//		"label" "JOIN CHICAGO"
+//		"command" "engine connect 104.153.105.67:27015"
+//	}
+//	"11"
+//	{
+//		"label" "JOIN SEATTLE"
+//		"command" "engine connect 162.248.94.192:27015"
+//	}
 }
 

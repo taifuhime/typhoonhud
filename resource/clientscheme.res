@@ -262,7 +262,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -271,7 +271,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -280,7 +280,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"15"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -289,7 +289,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -298,7 +298,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"900"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -307,7 +307,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -315,7 +315,7 @@ Scheme
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -326,7 +326,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -334,7 +334,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"15"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -342,7 +342,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"19"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -351,7 +351,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"26"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -360,7 +360,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"30"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -369,7 +369,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"18"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -379,7 +379,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -387,7 +387,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"18"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -395,7 +395,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"23"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -404,7 +404,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"31"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -413,7 +413,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"36"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -422,7 +422,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -433,7 +433,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"19"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -441,7 +441,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -449,7 +449,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"31"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -458,7 +458,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"41"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -467,7 +467,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"48"
 				"weight"	"1100"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -476,7 +476,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"22"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -487,7 +487,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"22"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -495,7 +495,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"28"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -503,7 +503,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"36"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -512,7 +512,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"48"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -521,7 +521,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"56"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -530,7 +530,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"28"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -541,7 +541,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -549,7 +549,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"34"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -557,7 +557,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"42"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -566,7 +566,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"54"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -575,7 +575,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"64"
 				"weight"	"1300"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -584,7 +584,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"32"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"900"
@@ -595,7 +595,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"700"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -614,7 +614,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Arial"
+				"name"		"URW Gothic L"
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"800"
@@ -624,7 +624,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -633,7 +633,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -642,7 +642,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -651,7 +651,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -660,7 +660,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -669,7 +669,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -680,7 +680,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -689,7 +689,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -698,7 +698,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -708,7 +708,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -718,7 +718,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F"
@@ -728,7 +728,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Arial"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -739,7 +739,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -747,7 +747,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -755,7 +755,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -764,7 +764,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -773,7 +773,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -782,14 +782,14 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
 			}
 			"7"
 			{
-				"name"		"Arial"
+				"name"		"URW Gothic L"
 				"tall"		"11"
 				"range" 		"0x0000 0x00FF"
 				"weight"		"0"
@@ -800,7 +800,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -809,7 +809,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -818,7 +818,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"15"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -831,8 +831,8 @@ Scheme
 			// note that this scales with the screen resolution
 			"1"
 			{
-				"name"		"Trebuchet MS" [!$OSX]
-				"name"		"Helvetica" [$OSX]
+				"name"		"URW Gothic L" [!$OSX]
+				"name"		"URW Gothic L" [$OSX]
 				"tall"		"18"
 				"weight"	"900"
 				"antialias" "1"
@@ -843,45 +843,48 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
+				"antialias" "1"
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
+				"antialias" "1"
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
+				"antialias" "1"
 			}
 		}
 		HudNumbersSmall
 		{
 			"1"
 			{
-				"name"		"Arial"
+				"name"		"URW Gothic L"
 				"tall"		"16"
 				"weight"	"1000"
 				"additive"	"1"
@@ -894,7 +897,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -907,7 +910,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -917,7 +920,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"11"
 				"weight"	"700"
 				"antialias" "1"
@@ -927,7 +930,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"900"
 				"antialias" "1"
@@ -936,7 +939,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"16"
 				"weight"	"900"
 				"antialias" "1"
@@ -945,7 +948,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"17"
 				"weight"	"1000"
 				"antialias" "1"
@@ -1117,7 +1120,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"  "Verdana"
+				"name"  "URW Gothic L"
 				"tall"  "28"
 				"weight" "0"
 				"additive" "1"
@@ -1182,7 +1185,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana Bold"
+				"name"		"URW Gothic L"
 				"tall"		"18"
 				"weight"	"500"
 				"antialias"	"1"
@@ -1228,7 +1231,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -1236,7 +1239,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -1244,7 +1247,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -1252,7 +1255,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -1260,7 +1263,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1271,7 +1274,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"700"
 				"yres"	"480 599"
@@ -1279,7 +1282,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"13"
 				"weight"	"700"
 				"yres"	"600 767"
@@ -1287,7 +1290,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"700"
 				"yres"	"768 1023"
@@ -1295,7 +1298,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"20"
 				"weight"	"700"
 				"yres"	"1024 1199"
@@ -1303,7 +1306,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"24"
 				"weight"	"700"
 				"yres"	"1200 10000"
@@ -1316,8 +1319,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"URW Gothic L" [!$OSX]
+				"name"		"URW Gothic L" [$OSX]
 				"tall"		"16"
 				"weight"	"1200"
 				"antialias" "1"
@@ -1328,8 +1331,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"URW Gothic L" [!$OSX]
+				"name"		"URW Gothic L" [$OSX]
 				"tall"		"12"
 				"weight"	"1200"
 				"antialias" "1"
@@ -1338,8 +1341,8 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana" [!$OSX]
-				"name"		"Verdana Bold" [$OSX]
+				"name"		"URW Gothic L" [!$OSX]
+				"name"		"URW Gothic L" [$OSX]
 				"tall"		"16"
 				"weight"	"1200"
 				"antialias" "1"
@@ -1353,7 +1356,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica Bold" [$OSX]
 				"weight"		"1200"
 				"tall"			"11"
@@ -1365,7 +1368,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Arial" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"weight"		"800"
 				"tall"			"9"
@@ -1377,7 +1380,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica Bold" [$OSX]
 				"weight"		"1200"
 				"tall"			"12"
@@ -1389,7 +1392,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"weight"		"700"
 				"tall"			"9"
@@ -1401,7 +1404,7 @@ Scheme
 		{		
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"tall"		"9"
 				"weight"	"900"
@@ -1414,7 +1417,7 @@ Scheme
 		{		
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"tall"		"14"
 				"weight"	"600"
@@ -1427,7 +1430,7 @@ Scheme
 		{	
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"tall"		"18"
 				"weight"	"600"
@@ -1440,7 +1443,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" [!$OSX]
+				"name"		"URW Gothic L" [!$OSX]
 				"name"		"Helvetica" [$OSX]
 				"tall"		"14"
 				"weight"	"700"
@@ -1453,8 +1456,8 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana Bold" [!$OSX]
-				"name"		"Verdana" [$OSX]
+				"name"		"URW Gothic L" [!$OSX]
+				"name"		"URW Gothic L" [$OSX]
 				"tall"		"9" 
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1478,7 +1481,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"6"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1486,7 +1489,7 @@ Scheme
 			}
 			"2"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1494,7 +1497,7 @@ Scheme
 			}
 			"3"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1503,7 +1506,7 @@ Scheme
 			}
 			"4"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"13"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1512,7 +1515,7 @@ Scheme
 			}
 			"5"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1521,7 +1524,7 @@ Scheme
 			}
 			"6"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"16"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1534,7 +1537,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"URW Gothic L"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1546,7 +1549,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"URW Gothic L"
 				"tall"		"14"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1558,7 +1561,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"URW Gothic L"
 				"tall"		"45"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1570,7 +1573,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"URW Gothic L"
 				"tall"		"8"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1582,7 +1585,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"URW Gothic L"
 				"tall"		"12"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1594,7 +1597,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"verdana bold"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -1606,7 +1609,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" 
+				"name"		"URW Gothic L" 
 				"tall"		"10" [!$OSX]
 				"tall"		"11" [$OSX]
 				"weight"	"0"
@@ -1619,7 +1622,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" 
+				"name"		"URW Gothic L" 
 				"tall"		"8" [!$OSX]
 				"tall"		"9" [$OSX]
 				"weight"	"0"
@@ -1632,7 +1635,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana" 
+				"name"		"URW Gothic L" 
 				"tall"		"7" [!$OSX]
 				"tall"		"8" [$OSX]
 				"weight"	"0"
@@ -1645,7 +1648,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"Verdana"
+				"name"		"URW Gothic L"
 				"tall"		"10"
 				"weight"	"0"
 				"range"		"0x0000 0x017F" //	Basic Latin, Latin-1 Supplement, Latin Extended-A
@@ -2430,6 +2433,11 @@ Scheme
 		"2"		"resource/csd.ttf"
 		"3"		"resource/Cstrike.ttf"
 		"4"		"resource/CSlogo.ttf"
+		"5"
+		{
+			"name" "URW Gothic L"
+			"font" "resource/fonts/urw-gothic-l-book.ttf"
+		}
 	}
 
 }

@@ -522,7 +522,7 @@ Scheme
 		{
 			"1"
 			{
-				"name"		"MS Sans Serif"
+				"name"		"Tewi"
 				"tall"		"12"
 				"weight"	"500"
 				"antialias"	"0"
@@ -1436,6 +1436,11 @@ Scheme
 		"4"		"resource/Acens.ttf"
 		"5"		"resource/fonts/Roboto-Regular.ttf"
 		"6"		"resource/fonts/Roboto-Black.ttf"
+		"7"
+		{
+			"name" "Tewi"
+			"font" "resource/fonts/tewi.ttf"
+		}
 	}
 }
 
