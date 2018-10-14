@@ -136,7 +136,7 @@ Scheme
 		RichText.TextColor				"OffWhite"
 		RichText.BgColor				"TransparentBlack"
 		RichText.SelectedTextColor		"Black"
-		RichText.SelectedBgColor		"LightBlue"
+		RichText.SelectedBgColor		"51 122 183 255"
 
 		ScrollBar.Wide					"4"
 
